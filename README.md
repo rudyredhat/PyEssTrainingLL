@@ -1,5 +1,5 @@
 # BASIC DETAILS
-- Consist notes of the LinkedIn Lecture = Python Essential Lecture
+- Consist notes of the LinkedIn Lecture = Python Essential Training
 
 # TOPIC DETAILS
 1. CH01 = Overview
