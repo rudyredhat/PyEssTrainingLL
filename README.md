@@ -16,3 +16,6 @@
     - list, dict, range
   - 2.4 type-id.py
     - type, id, isinstance, tuple
+3. CH03 = Loops
+  - 3.1 while-loop.py
+    - use of break, continue, else (controls) in while loop
