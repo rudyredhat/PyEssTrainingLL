@@ -65,4 +65,7 @@
  9. CH09 = File I/O
   - 9.1 file-in-op.py
     - basic file i/o operation with normal and binary files
- 10. 
+10. CH10 = Built-in-Functions
+  - 10.1 num-str-cont-obj&clss-func.py
+    - numeric, string, container, obj & class functions egs
+    
