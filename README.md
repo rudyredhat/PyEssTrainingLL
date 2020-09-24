@@ -59,6 +59,10 @@
     - basic exception caught and extra sys info()
   - 7.2 exception.py
     - same functions eg use to add exception with eg
- 8. CH08 = str-obj.py
-  - basic str operations
- 9. CH09
+ 8. CH08 = String Objects
+  - 8.1 str-obj.py
+    - basic str operations
+ 9. CH09 = File I/O
+  - 9.1 file-in-op.py
+    - basic file i/o operation with normal and binary files
+ 10. 
