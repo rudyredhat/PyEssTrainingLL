@@ -42,4 +42,15 @@
     - use of print function separately, list-comprehension with = normal seq, if, tuple, func, dict, set
   - 5.5 mixed.py
     - mix of all the structured data and with diff print functions for all the data types
- 
+ 6. CH06 = Classes
+  - 6.1 constructor.py
+    - use of normal method as well as with **kwargs method
+  - 6.2 methods.py
+    - use of getter and setter in same method and use of specail function = __str__ to remove the previous print() we have
+  - 6.3 variables.py
+    - use of encapsulation and how object var differ from class var
+  - 6.4 
+    - inheritance.py = basic inheritance concepts, use of getter and setter , use of super() 
+    - reverse-str.py = inheritance concept to reverse the string using str class
+  - 6.5 iterator.py
+    - use as same as generator function in 4.4 just we have diff functionality of iter, next and constructor
