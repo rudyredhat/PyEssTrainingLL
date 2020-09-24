@@ -54,3 +54,9 @@
     - reverse-str.py = inheritance concept to reverse the string using str class
   - 6.5 iterator.py
     - use as same as generator function in 4.4 just we have diff functionality of iter, next and constructor
+ 7. CH07 = Exceptions
+  - 7.1 exception-one.py
+    - basic exception caught and extra sys info()
+  - 7.2 exception.py
+    - same functions eg use to add exception with eg
+ 8. CH08 = 
