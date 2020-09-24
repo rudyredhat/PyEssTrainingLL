@@ -59,4 +59,6 @@
     - basic exception caught and extra sys info()
   - 7.2 exception.py
     - same functions eg use to add exception with eg
- 8. CH08 = 
+ 8. CH08 = str-obj.py
+  - basic str operations
+ 9. CH09
